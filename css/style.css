@@ -1,0 +1,53 @@
+.brand {
+	background: #cbb09c !important;
+}
+.brand-logo {
+	color: #cbb09c !important;
+	position: absolute;
+}
+.brand-text {
+	color: #997b66 !important;
+}
+.btn {
+	background: #cbb09c !important;
+}
+.btn:hover {
+	opacity: 0.8;
+}
+form {
+	max-width: 460px;
+	margin: 20px auto;
+	padding: 20px;
+	border-radius: 10%;
+}
+.pizza {
+	width: 100px;
+	text-align: center;
+	margin: 0 auto;
+	display: block;
+	position: relative;
+}
+.logo-pic {
+	color: #cbb09c;
+	font-size: 35px;
+	position: relative;
+	left: -5px;
+	top: 5px;
+}
+table {
+	margin-top: 3rem;
+}
+.burger{
+	color: #cbb09c;
+	font-size: 300px;
+}
+@media only screen and (max-width: 993px) {
+	.logo-pic {
+		display: none;
+	}
+}
+.link {
+	color: #cea07d;
+	font-weight: 500;
+	font-size: 20px;
+}
